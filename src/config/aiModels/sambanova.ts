@@ -140,7 +140,7 @@ const sambanovaChatModels: AIChatModelCard[] = [
     },
     contextWindowTokens: 32_000,
     description: 'DeepSeek R1——DeepSeek 套件中更大更智能的模型——被蒸馏到 Llama 70B 架构中。基于基准测试和人工评估，该模型比原始 Llama 70B 更智能，尤其在需要数学和事实精确性的任务上表现出色。',
-    displayName: 'DeepSeek R1 Distill Llama 70B',
+    displayName: 'ImoogleAI 3.0',
     enabled: true,
     id: 'DeepSeek-R1-Distill-Llama-70B',
     pricing: {
