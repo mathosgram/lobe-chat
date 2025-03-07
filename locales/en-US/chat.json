@@ -43,8 +43,8 @@
   "historyRange": "History Range",
   "historySummary": "Historical Message Summary",
   "inbox": {
-    "desc": "Activate the brain cluster and spark creative thinking. Your virtual assistant is here to communicate with you about everything.",
-    "title": "Just Chat"
+    "desc": "Activate the brain cluster and spark creative thinking. ImoogleAI Your virtual assistant is here to communicate with you about everything.",
+    "title": "ImoogleAI"
   },
   "input": {
     "addAi": "Add an AI message",
@@ -60,7 +60,7 @@
     "all": "All Content",
     "allFiles": "All Files",
     "allKnowledgeBases": "All Knowledge Bases",
-    "disabled": "The current deployment mode does not support knowledge base conversations. To use this feature, please switch to server-side database deployment or use the {{cloud}} service.",
+    "disabled": "Out of service, Coming Soon.",
     "library": {
       "action": {
         "add": "Add",
