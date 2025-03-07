@@ -125,7 +125,7 @@
     "later": "Later",
     "star": {
       "action": "Star It",
-      "desc": "If you love our product and want to support us, could you go to GitHub and give us a star? This small gesture means a lot to us and motivates us to continue providing you with great experiences.",
+      "desc": "If you love the product and want to support it, could you go to GitHub and give us a star? This small gesture means a lot to us and motivates us to continue providing you with great experiences.",
       "title": "Star Us on GitHub"
     },
     "title": "Like Our Product?"
@@ -269,9 +269,9 @@
   "telemetry": {
     "allow": "Allow",
     "deny": "Deny",
-    "desc": "We would like to anonymously collect usage information to help us improve LobeChat and provide you with a better product experience. You can disable this at any time in Settings - About.",
+    "desc": "We would like to anonymously collect usage information to help us improve ImoogleAI LobeChat and provide you with a better product experience. You can disable this at any time in Settings - About.",
     "learnMore": "Learn More",
-    "title": "Help LobeChat be better"
+    "title": "Help ImoogleAI Lobechat be better"
   },
   "temp": "Temporary",
   "terms": "Terms of Service",
@@ -288,7 +288,7 @@
     "cloud": "Launch {{name}}",
     "community": "Community Edition",
     "data": "Data Storage",
-    "defaultNickname": "Community User",
+    "defaultNickname": "Beta User",
     "discord": "Community Support",
     "docs": "Documentation",
     "email": "Email Support",
