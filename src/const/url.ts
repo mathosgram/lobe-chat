@@ -44,7 +44,7 @@ export const TERMS_URL = urlJoin(OFFICIAL_SITE, '/terms');
 export const PLUGINS_INDEX_URL = 'https://chat.imoogleai.xyz';
 
 export const MORE_MODEL_PROVIDER_REQUEST_URL =
-  'https://github.com';
+  'https://chat.imoogleai.xyz';
 
 export const MORE_FILE_PREVIEW_REQUEST_URL =
   'https://github.com/';
