@@ -6,8 +6,8 @@ export const crawUrlRules: CrawlUrlRule[] = [
     filterOptions: {
       enableReadability: false,
     },
-    urlPattern: 'https://github.com/([^/]+)/([^/]+)/blob/([^/]+)/(.*)',
-    urlTransform: 'https://github.com/$1/$2/raw/refs/heads/$3/$4',
+    urlPattern: 'https://imoogleai.xyz/([^/]+)/([^/]+)/blob/([^/]+)/(.*)',
+    urlTransform: 'https://imoogleai.xyz/$1/$2/raw/refs/heads/$3/$4',
   },
   {
     filterOptions: {
