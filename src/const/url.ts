@@ -27,7 +27,7 @@ export const WEBRTC_SYNC_DOCUMENTS = urlJoin(SELF_HOSTING_DOCUMENTS, '/advanced/
 export const DATABASE_SELF_HOSTING_URL = urlJoin(SELF_HOSTING_DOCUMENTS, '/server-database');
 
 // use this for the link
-export const DOCUMENTS_REFER_URL = `${DOCUMENTS}?utm_source=${UTM_SOURCE}`;
+export const DOCUMENTS_REFER_URL = `${DOCUMENT}?utm_source=${UTM_SOURCE}`;
 
 export const WIKI = urlJoin(GITHUB, 'wiki');
 export const WIKI_PLUGIN_GUIDE = urlJoin(USAGE_DOCUMENTS, '/plugins/development');
@@ -37,7 +37,7 @@ export const BLOG = urlJoin(OFFICIAL_SITE, 'blog');
 
 export const ABOUT = OFFICIAL_SITE;
 export const FEEDBACK = pkg.bugs.url;
-export const DISCORD = 'https://discord.gg/AYFPHvv2jT';
+export const DISCORD = 'https://discord.gg';
 export const PRIVACY_URL = urlJoin(OFFICIAL_SITE, '/privacy');
 export const TERMS_URL = urlJoin(OFFICIAL_SITE, '/terms');
 
@@ -70,7 +70,7 @@ export const RELEASES_URL = urlJoin(GITHUB, 'releases');
 
 export const mailTo = (email: string) => `mailto:${email}`;
 
-export const AES_GCM_URL = 'https://datatracker.ietf.org/doc/html/draft-ietf-avt-srtp-aes-gcm-01';
-export const BASE_PROVIDER_DOC_URL = 'https://imoogleai.xyz/docs/usage/providers';
+export const AES_GCM_URL = 'https://datatracker.iet';
+export const BASE_PROVIDER_DOC_URL = 'https://imoogleai.xyz/docs/';
 export const SITEMAP_BASE_URL = isDev ? '/sitemap.xml/' : 'sitemap';
 export const CHANGELOG_URL = urlJoin(OFFICIAL_SITE, 'changelog/versions');
